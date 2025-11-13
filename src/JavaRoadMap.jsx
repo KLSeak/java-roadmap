@@ -2,8 +2,8 @@ const Map = () => {
     return (
         <>
             {/*header*/}
-            <header className='bg-amber-50'>
-                <p className='text-slate-700 p-3 text-center font-bold text-2xl'>
+            <header className='bg-slate-800'>
+                <p className='p-3 text-center font-bold text-2xl'>
                     Java Full Stack + Microservices Developer <br/>
                     Roadmap (6 Months)</p>
             </header>
@@ -132,7 +132,7 @@ const Map = () => {
                         </div>
                         <div className='bg-teal-100 p-2 '>
                             <span className='italic font-semibold'>Project:</span>
-                            <p></p>
+                            <p>....</p>
                         </div>
                     </div>
                 </div>
