@@ -139,7 +139,7 @@ const Map = () => {
             </div>
 
             {/*footer*/}
-            <footer className='bg-slate-800  flex flex-wrap justify-center'>
+            {/* <footer className='bg-slate-800  flex flex-wrap justify-center'>
                 <p className=' font-bold text-2xl text-center mb-3'>After 6 Months You Can:</p>
                 <div className="stats stats-vertical lg:stats-horizontal shadow flex justify-center text-slate-700 ">
                     <div className="stat bg-neutral-200">
@@ -162,7 +162,7 @@ const Map = () => {
                             and Spring Cloud</p>
                     </div>
                 </div>
-            </footer>
+            </footer> */}
 
         </>
 
